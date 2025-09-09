@@ -14,10 +14,8 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 ---
 
 ## 📸 Project Photos
-*(Example — replace with your own images)*  
-- ![Clock circuit](photos/clock_circuit.jpg)  
+- ![Clock circuit + ALU](photos/ALU-testing.jpg)  
 - ![Registers](photos/registers.jpg)  
-- ![ALU](photos/alu.jpg)  
 
 ---
 
