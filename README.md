@@ -5,7 +5,7 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 
 ---
 
-## 🔧 Features Implemented
+## Features Implemented
 - **Clock Circuit** – stable and adjustable system clock
 - **Registers** – A and B register as well as a flag register
 - **Arithmetic Logic Unit (ALU)** – supports binary addition and subtraction
@@ -13,13 +13,13 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 
 ---
 
-## 📸 Project Photos
+## Project Photos
 - ![Clock circuit + ALU](photos/ALU-testing.jpg)  
 - ![Registers](photos/registers.jpg)  
 
 ---
 
-## 🧪 Key Learnings
+## Key Learnings
 - Practical application of digital logic (AND, OR, XOR, NOT)  
 - Timing and control in sequential circuits  
 - Debugging digital electronics with LEDs and a multimeter  
@@ -27,13 +27,13 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 - Add program counter and instruction decoder  
 - Implement RAM and a shared bus system  
 
 ---
 
-## 🛠 Tools & Components
+## Tools & Components
 - 74xx series TTL logic ICs  
 - Breadboards and 22AWG jumper wires  
 - LEDs, resistors, capacitors  
@@ -42,5 +42,5 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 
 ---
 
-## 📚 References
+## References
 - [Ben Eater’s 8-bit computer series](https://eater.net/8bit) – inspiration and schematics  
