@@ -16,7 +16,7 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 ## Project Photos
 ![Clock circuit + ALU](photos/ALU-testing.jpg)  
 ![Registers](photos/registers.jpg)  
-![testing](photos/video.gif)
+![Testing](https://github.com/Crynetics/8-Bit-Breadboard-CPU/issues/1#issue-3398026889)
 
 ---
 
