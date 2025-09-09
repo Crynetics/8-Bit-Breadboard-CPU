@@ -19,6 +19,7 @@ It is based on Ben Eater’s educational design and schematics, which I followed
 **Registers**
 ![Registers](photos/registers.jpg)  
 **Testing**
+
 ![Testing](photos/demo.gif)
 
 ---
